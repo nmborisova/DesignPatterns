@@ -1,4 +1,4 @@
-package bg.smg;
+package bg.smg.creational;
 
 class Singleton {
     private static Singleton instance;

@@ -1,4 +1,6 @@
-package bg.smg;
+package bg.smg.creational;
+
+import bg.smg.creational.Singleton;
 
 public class Main {
 
